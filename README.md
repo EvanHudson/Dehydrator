@@ -1,9 +1,9 @@
 Dehydrator Control Program
 Author
-Test Footage https://www.youtube.com/watch?v=tTGO0I-jBCs&authuser=0
+
     Author: Evan Hudson
     Version: Json 1.0
-
+Test Footage https://www.youtube.com/watch?v=tTGO0I-jBCs&authuser=0
 Overview
 
 This C++ program is designed to control a Raspberry Pi Pico-based homemade dehydrator. The primary functions include regulating the temperature inside the dehydrator using a servo-controlled heated lamp and introducing humidity for a specified portion of the total cooking time with a servo-controlled water spray bottle.
